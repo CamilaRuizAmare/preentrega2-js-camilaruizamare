@@ -13,7 +13,7 @@ class Cuenta{
     }
 
 }
-//array de objetos creados mediante una clase con datos de clientes y especificaciones del mismo.
+//array de objetos creados mediante una clase, con datos de empresas y especificaciones del mismo.
 const Cuentas = [
      BHCust = new Cuenta('Banco Hipotecario', 'Customer', 'Formosa', 'Cristian Zozaya', 'Lizzie Ruiz Diaz'),
      BHCob = new Cuenta('Banco Hipotecario', 'Cobranzas', 'Formosa', 'Cristian Zozaya', 'Lizzie Ruiz Diaz'),
